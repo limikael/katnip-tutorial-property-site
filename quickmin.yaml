@@ -1,0 +1,13 @@
+jwtSecret: "changeme"
+adminUser: "admin"
+adminPass: "admin"
+apiPath: "admin"
+
+collections:
+  properties:
+    fields:
+      <Text id="title" listable/>
+      <Text id="description" multiline fullWidth/>
+      <Integer id="bedrooms"/>
+      <Integer id="bathrooms"/>
+      <Integer id="price"/>

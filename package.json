@@ -1,0 +1,24 @@
+{
+  "name": "katnip-tutorial-property-site",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "katnip dev",
+    "dev": "katnip dev",
+    "postinstall": "katnip init",
+    "deploy": "katnip deploy --platform=cloudflare"
+  },
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "katnip-cloudflare": "^4.0.3",
+    "katnip-isoq": "^4.0.4",
+    "katnip-quickmin": "^4.0.3",
+    "katnip-rpc": "^4.0.3",
+    "katnip-tailwind": "^4.0.3"
+  },
+  "exports": {
+    "./isomain": "./src/main/index.jsx",
+    "./katnip-rpc-api": "./src/main/Api.js"
+  }
+}

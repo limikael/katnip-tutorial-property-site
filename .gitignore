@@ -1,0 +1,4 @@
+package-lock.json
+.wrangler
+quickmin.db
+node_modules
