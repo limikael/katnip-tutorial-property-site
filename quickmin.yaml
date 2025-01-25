@@ -11,3 +11,4 @@ collections:
       <Integer id="bedrooms"/>
       <Integer id="bathrooms"/>
       <Integer id="price"/>
+      <Integer id="likes" default="0"/>

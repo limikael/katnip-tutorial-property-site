@@ -15,7 +15,9 @@
     "katnip-isoq": "^4.0.4",
     "katnip-quickmin": "^4.0.3",
     "katnip-rpc": "^4.0.3",
-    "katnip-tailwind": "^4.0.3"
+    "katnip-static": "^4.0.3",
+    "katnip-tailwind": "^4.0.3",
+    "katnip-watch": "^4.0.2"
   },
   "exports": {
     "./isomain": "./src/main/index.jsx",
