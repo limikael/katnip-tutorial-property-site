@@ -1,4 +1,4 @@
-This is the code for the property site tutorial at [kaynip.dev](https://katnip.dev).
+This is the code for the property site tutorial at [katnip.dev](https://katnip.dev).
 
 It shows how to use katnip to create a property listing site.
 
